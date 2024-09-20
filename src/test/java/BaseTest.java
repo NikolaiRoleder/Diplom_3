@@ -4,7 +4,7 @@ import api.UserCredentials;
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
-import pageObject.*;
+import pages.*;
 
 import java.io.IOException;
 
